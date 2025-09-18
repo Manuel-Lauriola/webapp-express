@@ -1,5 +1,6 @@
 // importo express
 const express = require(`express`)
+const connection = require(`./data/db.js`)
 
 //utilizzo express che ho appena importato
 app = express()
